@@ -1,0 +1,11 @@
+F:\VisualStudioRepos\MarsProject\MarsProject\bin\Release\netcoreapp3.0\MarsProject.exe
+F:\VisualStudioRepos\MarsProject\MarsProject\bin\Release\netcoreapp3.0\MarsProject.deps.json
+F:\VisualStudioRepos\MarsProject\MarsProject\bin\Release\netcoreapp3.0\MarsProject.runtimeconfig.json
+F:\VisualStudioRepos\MarsProject\MarsProject\bin\Release\netcoreapp3.0\MarsProject.runtimeconfig.dev.json
+F:\VisualStudioRepos\MarsProject\MarsProject\bin\Release\netcoreapp3.0\MarsProject.dll
+F:\VisualStudioRepos\MarsProject\MarsProject\bin\Release\netcoreapp3.0\MarsProject.pdb
+F:\VisualStudioRepos\MarsProject\MarsProject\obj\Release\netcoreapp3.0\MarsProject.csprojAssemblyReference.cache
+F:\VisualStudioRepos\MarsProject\MarsProject\obj\Release\netcoreapp3.0\MarsProject.AssemblyInfoInputs.cache
+F:\VisualStudioRepos\MarsProject\MarsProject\obj\Release\netcoreapp3.0\MarsProject.AssemblyInfo.cs
+F:\VisualStudioRepos\MarsProject\MarsProject\obj\Release\netcoreapp3.0\MarsProject.dll
+F:\VisualStudioRepos\MarsProject\MarsProject\obj\Release\netcoreapp3.0\MarsProject.pdb
